@@ -34,9 +34,9 @@
 
 ## **Sorry sir, because I don't know how to deploy this app.
 
-## You can follow this [link](https://www.youtube.com/watch?t=73&v=XNS9BgQ0dGI&feature=youtu.be) or go to this [link](https://www.youtube.com/watch?v=Y4c4ickks2A)
+## You can follow this [link](https://www.youtube.com/watch?t=73&v=XNS9BgQ0dGI&feature=youtu.be) or go to this [link](https://www.youtube.com/watch?v=1oOr7o3Cx1Y)
 
-*Feel free to use this github repo link to clone on the console of pythonanywhere if you are following this [link](https://www.youtube.com/watch?v=Y4c4ickks2A)
+*Feel free to use this github repo link to clone on the console of pythonanywhere if you are following this [link](https://www.youtube.com/watch?v=1oOr7o3Cx1Y)
 
 ### We are done now.
 
